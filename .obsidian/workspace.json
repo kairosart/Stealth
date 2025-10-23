@@ -1,0 +1,348 @@
+{
+  "main": {
+    "id": "e8b1e7079213cea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0fe6c66f88da91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b08ec97de616fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "db92193667c280d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENUMERATION/Network nmap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Network nmap"
+            }
+          },
+          {
+            "id": "ab73f08597440303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXPLOITATION/Uploading ps1 file.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Uploading ps1 file"
+            }
+          },
+          {
+            "id": "3e5257a523e3c4c7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Screenshot from 2025-10-23 10-48-07.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot from 2025-10-23 10-48-07"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59f5b281e6b58f79",
+    "type": "split",
+    "children": [
+      {
+        "id": "941175c1b68bc5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49d2e38fa784abc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "91c119d2813493c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f96d0dd5b100941c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a605ebd7d88e884",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f02e6917260f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccc02e77c44db05e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-ghost",
+              "title": "backlink"
+            }
+          },
+          {
+            "id": "0749071249cbc61a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "2832ae88491beccb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef987eada1a092d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "images/Screenshot from 2025-10-23 10-48-07.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Screenshot from 2025-10-23 10-48-07"
+            }
+          },
+          {
+            "id": "234e1b52f43a3509",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "acfee9d8c712cec4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "f9e6d96c08f6c5f9",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "34ada4ce040e1290",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "244889e36b790803",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "f03fbd0fe7e34dce",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "0973b8c9049c677e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "7711c1c662e3b4d7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "juggl:Juggl global graph": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "49d2e38fa784abc2",
+  "lastOpenFiles": [
+    "EXPLOITATION/Uploading ps1 file.md",
+    "images/Screenshot_2025-10-23_06-08-42.png",
+    "ENUMERATION/Web Server.md",
+    "EXPLOITATION",
+    "images/Screenshot_2025-10-23_05-45-56.png",
+    "ENUMERATION/Network nmap.md",
+    "images/Screenshot_2025-10-23_04-54-13.png",
+    "index.md",
+    "ENUMERATION",
+    "images",
+    "images/Screenshot from 2025-10-23 10-48-07.png",
+    "README.md",
+    "Untitled Folder",
+    "EXPLOITATION/User flag.md",
+    "EXPLOITATION/Connecting the Machine.md",
+    "EXPLOITATION/Gaining initial access.md",
+    "ENUMERATION/Kerbrute.md",
+    "PRIVILEGE ESCALATION/Services.md",
+    "PRIVILEGE ESCALATION/Administrator flag.md",
+    "ENUMERATION/Metasploit.md",
+    "docs/lib/metadata.json",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "images/Screenshot_2025-10-21_06-39-08.png",
+    "images/Screenshot from 2025-10-22 11-38-43.png",
+    "images/Screenshot_2025-10-22_05-18-34.png",
+    "Screenshot_2025-10-22_05-03-40.png",
+    "Screenshot_2025-10-22_04-58-24-2.png",
+    "PRIVILEGE ESCALATION/User's privileges.md",
+    "PRIVILEGE ESCALATION/Root flag.md",
+    "EXPLOITATION/linPEAS.md",
+    "EXPLOITATION/Ghostcat exploit.md",
+    "EXPLOITATION/Cracking jdk-admin's hash.md",
+    "ENUMERATION/Tomcat.md",
+    "ENUMERATION/Network map.md",
+    "EXPLOITATION/SMB credentials capturing.md",
+    "PRIVILEGE ESCALATION/System flag.md",
+    "PRIVILEGE ESCALATION/Pipe Impersonation (PrintSpooler).md",
+    "EXPLOITATION/User's flag.md",
+    "EXPLOITATION/Initial access.md",
+    "ENUMERATION/SMB.md"
+  ]
+}

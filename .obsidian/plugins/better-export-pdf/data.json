@@ -1,0 +1,30 @@
+{
+  "showTitle": true,
+  "maxLevel": "6",
+  "displayHeader": true,
+  "displayFooter": true,
+  "headerTemplate": "<span style=\"padding: 0 3px;\"><h3>Document title</span></h3>",
+  "footerTemplate": "<div style=\"width:100%;display:flex;justify-content:space-between;align-items:center;font-size:10px;margin:0 40px;\"><span >E. Astasio 2025</span><span><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></span></div>\n\n\n\n\n\n",
+  "printBackground": false,
+  "generateTaggedPDF": false,
+  "displayMetadata": false,
+  "debug": false,
+  "isTimestamp": false,
+  "enabledCss": false,
+  "concurrency": "5",
+  "prevConfig": {
+    "pageSize": "A4",
+    "marginType": "1",
+    "showTitle": true,
+    "open": true,
+    "scale": 59,
+    "landscape": false,
+    "marginTop": "10",
+    "marginBottom": "10",
+    "marginLeft": "10",
+    "marginRight": "10",
+    "displayHeader": true,
+    "displayFooter": true,
+    "cssSnippet": "0"
+  }
+}

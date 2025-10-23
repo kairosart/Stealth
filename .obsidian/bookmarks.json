@@ -1,0 +1,190 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1725559280170,
+      "path": "WEB APP EXPLOITATION/Task 10 - What the Fuzz?.md",
+      "subpath": "#robots.txt"
+    },
+    {
+      "type": "file",
+      "ctime": 1725815755105,
+      "path": "WEB APP EXPLOITATION/Task 12 -  What is this? Vulnversity?.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1728326431607,
+      "path": "POST EXPLOITATION/Task 21 - From the Shadows.md",
+      "title": "SSH to L-SEV01"
+    },
+    {
+      "type": "file",
+      "ctime": 1728761415811,
+      "path": "PRIVILEGE ESCALATION/Task 20 - Call me Mario, because I got all the bits.md",
+      "title": "Root onto  L-SRV01"
+    },
+    {
+      "type": "group",
+      "ctime": 1730024029696,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1726596461706,
+          "path": "POST EXPLOITATION/Task 14 - Meterpreter session 1 closed. Reason RUH ROH.md",
+          "title": "1. Reverse Shell"
+        },
+        {
+          "type": "file",
+          "ctime": 1730746774399,
+          "path": "DOCKER BREAKOUT/Task 18 - Making Thin Lizzy Proud.md",
+          "subpath": "#Inject our PHP code into a table and save the table into a file on the remote system",
+          "title": "2. Inject PHP code into a table"
+        },
+        {
+          "type": "file",
+          "ctime": 1730023963844,
+          "path": "DOCKER BREAKOUT/Task 18 - Making Thin Lizzy Proud.md",
+          "subpath": "#Accessing 192.168.100.1 machine",
+          "title": "2.1 Accessing to 192.168.100.1"
+        },
+        {
+          "type": "file",
+          "ctime": 1730024382701,
+          "path": "DOCKER BREAKOUT/Task 19 - Going%20out%20with%20a%20SHEBANG%21.md",
+          "subpath": "#Your job",
+          "title": "3. Shell onto  L-SRV01."
+        },
+        {
+          "type": "file",
+          "ctime": 1730058847637,
+          "path": "PRIVILEGE ESCALATION/Task 20 - Call me Mario, because I got all the bits.md",
+          "subpath": "#Your job",
+          "title": "4. Privilege Escalation L-SRV01"
+        },
+        {
+          "type": "file",
+          "ctime": 1730059428342,
+          "path": "POST EXPLOITATION/Task 21 - From the Shadows.md",
+          "subpath": "#Adding an SSH key",
+          "title": "5. Adding a SSH Key"
+        },
+        {
+          "type": "file",
+          "ctime": 1730142579862,
+          "path": "PIVOTING/Task 23 - Digging a tunnel to nowhere.md",
+          "subpath": "#Pivoting with sshuttle",
+          "title": "6. Pivoting with sshuttle"
+        },
+        {
+          "type": "file",
+          "ctime": 1730316204362,
+          "path": "WEB APP EXPLOITATION/Task 28 - Hide yo' Kids, Hide yo' Wives, Hide yo' Tokens.md",
+          "subpath": "#Your job",
+          "title": "7. Accesing S-SRV01 Web"
+        },
+        {
+          "type": "file",
+          "ctime": 1730143520086,
+          "path": "AV EVASION/Task 35 - Wrapping the burrito.md",
+          "subpath": "#Uploading a web-shell to 10.200.X.31",
+          "title": "8. Uploading a web-sell to 10.200.X.31"
+        },
+        {
+          "type": "file",
+          "ctime": 1730491809527,
+          "path": "POST EXPLOITATION/Task 36 -  That's not a cat that's a dawg.md",
+          "subpath": "#Running hoaxshell",
+          "title": "9. Hoaxhell and Mimikatz"
+        },
+        {
+          "type": "file",
+          "ctime": 1730921763201,
+          "path": "POST EXPLOITATION/Task 37 - Good Intentions, Courtesy of Microsoft - Part II.md",
+          "subpath": "#Connect to PC-FILESRV01 with smbclient",
+          "title": "10. Connect to PC-FILESERV01"
+        },
+        {
+          "type": "file",
+          "ctime": 1730921885414,
+          "path": "POST EXPLOITATION/Task 38 - Watson left her locker open.md",
+          "subpath": "#applocker-bypas-checker.ps1",
+          "title": "11. applocker bypas"
+        },
+        {
+          "type": "file",
+          "ctime": 1730923039619,
+          "path": "SITUATIONAL AWARANESS/Task 39 - So it's just fancy malware?.md",
+          "subpath": "#AV enumeration with Seatbelt",
+          "title": "12. AV Enumeration"
+        },
+        {
+          "type": "file",
+          "ctime": 1731786471945,
+          "path": "SITUATIONAL AWARANESS/Task 40 - SEATBELT CHECK!.md",
+          "title": "13. Seatbelt check"
+        },
+        {
+          "type": "file",
+          "ctime": 1732043680380,
+          "path": "PRIVILEGE ESCALATION/Task 43 - WERE TAKING OVER THIS DLL!.md",
+          "subpath": "#Your job",
+          "title": "14. Privelege Escalation to PC-FILESRV01"
+        },
+        {
+          "type": "file",
+          "ctime": 1732391514962,
+          "path": "PERSISTENCE/Task 44 - WERE TAKING OVER THIS DLL! Part II.md",
+          "subpath": "#Your job",
+          "title": "15. Identifying DLL for hijacking"
+        },
+        {
+          "type": "file",
+          "ctime": 1732391712282,
+          "path": "NTLM RELAY/Task 46 - Now you see me, now you don't.md",
+          "subpath": "#Your job",
+          "title": "16. Abuse NTLM relaying"
+        },
+        {
+          "type": "file",
+          "ctime": 1732391764981,
+          "path": "NTLM RELAY/Task 47 - Why not just turn it off?.md",
+          "subpath": "#Your job",
+          "title": "17. Add a SOCKS connection"
+        },
+        {
+          "type": "file",
+          "ctime": 1732391882794,
+          "path": "NTLM RELAY/Task 48 - Ready your weapons.md",
+          "subpath": "#Your job",
+          "title": "18. Gain access to the domain"
+        }
+      ],
+      "title": "ACCESSING DIRECTLY"
+    },
+    {
+      "type": "file",
+      "ctime": 1742416496623,
+      "path": "Setting up.md",
+      "subpath": "#Details",
+      "title": "Credentials for MU=TH=UR6000"
+    },
+    {
+      "type": "file",
+      "ctime": 1758047919389,
+      "path": "EXPLOITATION/RCE.md",
+      "subpath": "#Draft page"
+    },
+    {
+      "type": "file",
+      "ctime": 1758187984482,
+      "path": "EXPLOITATION/RCE.md",
+      "subpath": "#Getting a reverse shell"
+    },
+    {
+      "type": "file",
+      "ctime": 1759776767799,
+      "path": "EXPLOITATION/Initial access.md",
+      "subpath": "#Reverse Shell"
+    }
+  ]
+}

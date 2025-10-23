@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 22,
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "nativeMenus": true,
+  "theme": "obsidian"
+}
