@@ -4,3 +4,4 @@ Visit `http://<MACHINE IP>:8080/`.
 
 You can only upload  `ps1` files.
 
+**Next step:** [[Uploading ps1 file]]
