@@ -67,7 +67,8 @@
               "title": "Uploading ps1 file"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/Decodign the flag.md",
+                "file": "EXPLOITATION/Uploading ps1 file.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Decodign the flag"
+              "title": "Outline of Uploading ps1 file"
             }
           },
           {
@@ -299,14 +300,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8b08ec97de616fe5",
+  "active": "3e5257a523e3c4c7",
   "lastOpenFiles": [
+    "images/Screenshot_2025-10-24_13-39-45.png",
     "EXPLOITATION/Uploading ps1 file.md",
     "EXPLOITATION/Decodign the flag.md",
+    "images/Screenshot_2025-10-24_14-25-54.png",
     "README.md",
     "ENUMERATION/Web Server.md",
-    "Screenshot_2025-10-24_14-11-30.png",
-    "Screenshot_2025-10-24_13-39-45.png",
+    "images/Screenshot_2025-10-24_14-11-30.png",
     "images/Screenshot from 2025-10-23 10-48-07.png",
     "images/Screenshot_2025-10-23_06-08-42.png",
     "EXPLOITATION",
@@ -333,7 +335,6 @@
     "docs/lib/fonts/454577c22304619db035.ttf",
     "images/Screenshot_2025-10-21_06-39-08.png",
     "images/Screenshot from 2025-10-22 11-38-43.png",
-    "images/Screenshot_2025-10-22_05-18-34.png",
     "PRIVILEGE ESCALATION/User's privileges.md",
     "PRIVILEGE ESCALATION/Root flag.md",
     "EXPLOITATION/linPEAS.md",
@@ -345,7 +346,6 @@
     "PRIVILEGE ESCALATION/System flag.md",
     "PRIVILEGE ESCALATION/Pipe Impersonation (PrintSpooler).md",
     "EXPLOITATION/User's flag.md",
-    "EXPLOITATION/Initial access.md",
-    "ENUMERATION/SMB.md"
+    "EXPLOITATION/Initial access.md"
   ]
 }
