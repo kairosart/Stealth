@@ -58,17 +58,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Uploading ps1 file.md",
+                "file": "EXPLOITATION/Reverse Shell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Uploading ps1 file"
+              "title": "Reverse Shell"
+            }
+          },
+          {
+            "id": "82028608fd00e434",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Screenshot_2025-10-30_06-35-12.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot_2025-10-30_06-35-12"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/Uploading ps1 file.md",
+                "file": "images/Screenshot_2025-10-30_06-35-12.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Uploading ps1 file"
+              "title": "Outline of Screenshot_2025-10-30_06-35-12"
             }
           },
           {
@@ -300,21 +312,25 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "3e5257a523e3c4c7",
+  "active": "49d2e38fa784abc2",
   "lastOpenFiles": [
+    "EXPLOITATION/Reverse Shell.md",
+    "images/Screenshot_2025-10-30_07-23-24.png",
+    "images/Screenshot_2025-10-30_07-13-58.png",
+    "images/Screenshot_2025-10-30_07-11-19-1.png",
+    "images/Screenshot_2025-10-30_07-11-19.png",
+    "ENUMERATION/Network nmap.md",
+    "ENUMERATION/Web Server.md",
+    "EXPLOITATION/User level flag.md",
+    "PRIVILEGE ESCALATION",
+    "images/Screenshot_2025-10-30_06-35-12.png",
     "images/Screenshot_2025-10-24_13-39-45.png",
-    "EXPLOITATION/Uploading ps1 file.md",
-    "EXPLOITATION/Decodign the flag.md",
     "images/Screenshot_2025-10-24_14-25-54.png",
     "README.md",
-    "ENUMERATION/Web Server.md",
     "images/Screenshot_2025-10-24_14-11-30.png",
     "images/Screenshot from 2025-10-23 10-48-07.png",
     "images/Screenshot_2025-10-23_06-08-42.png",
     "EXPLOITATION",
-    "images/Screenshot_2025-10-23_05-45-56.png",
-    "ENUMERATION/Network nmap.md",
-    "images/Screenshot_2025-10-23_04-54-13.png",
     "index.md",
     "ENUMERATION",
     "images",
@@ -327,14 +343,10 @@
     "PRIVILEGE ESCALATION/Administrator flag.md",
     "ENUMERATION/Metasploit.md",
     "docs/lib/metadata.json",
-    "docs/lib/media/6155340132a851f6089e.svg",
     "docs/lib/media",
     "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "docs/lib/fonts/05b618077343fbbd92b7.ttf",
     "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/lib/fonts/454577c22304619db035.ttf",
-    "images/Screenshot_2025-10-21_06-39-08.png",
-    "images/Screenshot from 2025-10-22 11-38-43.png",
     "PRIVILEGE ESCALATION/User's privileges.md",
     "PRIVILEGE ESCALATION/Root flag.md",
     "EXPLOITATION/linPEAS.md",
