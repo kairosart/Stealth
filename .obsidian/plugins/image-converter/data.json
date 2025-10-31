@@ -30,9 +30,15 @@
       "customTemplate": "{notename}-{timestamp}",
       "skipRenamePatterns": "",
       "conflictResolution": "increment"
+    },
+    {
+      "name": "Figure",
+      "customTemplate": "",
+      "skipRenamePatterns": "",
+      "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "NoteName-Timestamp",
+  "selectedFilenamePreset": "Figure",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
@@ -352,6 +358,6 @@
   "captionAlignment": "center",
   "modalSessionState": {
     "customFolderOverride": "",
-    "customFilenameOverride": "{imagename}"
+    "customFilenameOverride": ""
   }
 }

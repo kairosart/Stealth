@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Decodign the flag.md",
+                "file": "EXPLOITATION/Reverse Shell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Decodign the flag"
+              "title": "Reverse Shell"
             }
           },
           {
@@ -58,29 +58,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Reverse Shell.md",
+                "file": "PRIVILEGE ESCALATION/Webshell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Shell"
+              "title": "Webshell"
             }
           },
           {
-            "id": "82028608fd00e434",
+            "id": "e1b1143474fa0beb",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "images/Screenshot_2025-10-30_06-35-12.png"
+                "file": "images/Screenshot_2025-10-31_07-23-03.png"
               },
               "icon": "lucide-image",
-              "title": "Screenshot_2025-10-30_06-35-12"
+              "title": "Screenshot_2025-10-31_07-23-03"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Screenshot_2025-10-30_06-35-12.png",
+                "file": "PRIVILEGE ESCALATION/Webshell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Screenshot_2025-10-30_06-35-12"
+              "title": "Outline of Webshell"
             }
           },
           {
@@ -312,24 +312,26 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "49d2e38fa784abc2",
+  "active": "3e5257a523e3c4c7",
   "lastOpenFiles": [
+    "images/Screenshot_2025-10-31_07-23-03.png",
+    "images/Screenshot_2025-10-31_07-26-12.png",
+    "PRIVILEGE ESCALATION/Webshell.md",
+    "images/Screenshot_2025-10-31_07-26-12-1.png",
+    "images/Screenshot_2025-10-31_07-23-03-1.png",
+    "Webshell.png",
+    "ENUMERATION/Network nmap.md",
+    "ENUMERATION/Web Server.md",
     "EXPLOITATION/Reverse Shell.md",
+    "images/Vulnerable.ps1.md",
+    "EXPLOITATION/User level flag.md",
+    "images/Screenshot_2025-10-30_06-35-12.png",
     "images/Screenshot_2025-10-30_07-23-24.png",
     "images/Screenshot_2025-10-30_07-13-58.png",
     "images/Screenshot_2025-10-30_07-11-19-1.png",
     "images/Screenshot_2025-10-30_07-11-19.png",
-    "ENUMERATION/Network nmap.md",
-    "ENUMERATION/Web Server.md",
-    "EXPLOITATION/User level flag.md",
     "PRIVILEGE ESCALATION",
-    "images/Screenshot_2025-10-30_06-35-12.png",
-    "images/Screenshot_2025-10-24_13-39-45.png",
-    "images/Screenshot_2025-10-24_14-25-54.png",
     "README.md",
-    "images/Screenshot_2025-10-24_14-11-30.png",
-    "images/Screenshot from 2025-10-23 10-48-07.png",
-    "images/Screenshot_2025-10-23_06-08-42.png",
     "EXPLOITATION",
     "index.md",
     "ENUMERATION",
@@ -356,8 +358,6 @@
     "ENUMERATION/Network map.md",
     "EXPLOITATION/SMB credentials capturing.md",
     "PRIVILEGE ESCALATION/System flag.md",
-    "PRIVILEGE ESCALATION/Pipe Impersonation (PrintSpooler).md",
-    "EXPLOITATION/User's flag.md",
-    "EXPLOITATION/Initial access.md"
+    "PRIVILEGE ESCALATION/Pipe Impersonation (PrintSpooler).md"
   ]
 }
