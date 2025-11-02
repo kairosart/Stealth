@@ -23,4 +23,5 @@ nmap -A  <MACHINE IP> -Pn
     
 - **Overall risk**: multiple attack vectors — SMB relaying, web app weaknesses, RDP brute/credential reuse, and lateral movement if you can capture/ crack creds.
 
-**Next step:** [[Network nmap]]
+**Next step:** [[Web Server]]
+

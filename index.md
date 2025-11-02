@@ -4,3 +4,7 @@ Start the VM by clicking the `Start Machine` button at the top right of the 
 
 _Are you stealthier enough to evade all the updated security measures of the target?_
 
+
+---
+
+## Steps
