@@ -16,4 +16,3 @@ _Are you stealthier enough to evade all the updated security measures of the tar
 5. [[Webshell]]
 6. [[SeImpersonatePrivilege]]
 7. [[Root flag]]
-
