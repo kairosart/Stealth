@@ -53,37 +53,22 @@
             }
           },
           {
-            "id": "3e5257a523e3c4c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PRIVILEGE ESCALATION/RDP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "RDP"
-            }
-          },
-          {
             "id": "e1b1143474fa0beb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -204,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of README"
             }
           },
           {
@@ -315,30 +300,75 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e1b1143474fa0beb",
+  "floating": {
+    "id": "0cd9b09fc38d4fb6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fbfb786f25ff3ade",
+        "type": "window",
+        "children": [
+          {
+            "id": "f2c7eb163d6473e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d5d63d053c16b487",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 531,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d5d63d053c16b487",
   "lastOpenFiles": [
-    "images/Screenshot_2025-11-02_14-37-28.png",
+    "docs/ENUMERATION",
+    "docs/lib/rss.xml",
+    "docs/lib",
+    "index.md",
+    "PRIVILEGE ESCALATION/Webshell.md",
+    "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md",
     "PRIVILEGE ESCALATION/RDP.md",
     "EXPLOITATION/User level flag.md",
-    "images/Adminitrator_flag.png",
-    "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md",
-    "images/Windows_Desktop.png",
-    "PRIVILEGE ESCALATION/Webshell.md",
-    "images/Screenshot_2025-11-02_14-44-48.png",
     "EXPLOITATION/Reverse Shell.md",
-    "ENUMERATION/Network nmap.md",
     "ENUMERATION/Web Server.md",
-    "images/Screenshot_2025-10-31_07-23-03.png",
-    "images/Screenshot_2025-10-31_07-26-12.png",
-    "images/Screenshot_2025-10-31_07-26-12-1.png",
-    "images/Screenshot_2025-10-31_07-23-03-1.png",
-    "Webshell.png",
-    "images/Vulnerable.ps1.md",
-    "images/Screenshot_2025-10-30_06-35-12.png",
-    "PRIVILEGE ESCALATION",
+    "ENUMERATION/Network nmap.md",
     "README.md",
+    "docs",
+    "images/Screenshot_2025-10-31_07-26-12.png",
+    "images/Screenshot_2025-10-31_07-23-03-1.png",
+    "images/Screenshot_2025-10-30_07-11-19.png",
+    "images/Screenshot_2025-10-23_06-08-42.png",
+    "PRIVILEGE ESCALATION/Root flag.md",
+    "images/Screenshot_2025-11-02_14-37-28.png",
+    "images/Adminitrator_flag.png",
+    "images/Windows_Desktop.png",
+    "images/Screenshot_2025-11-02_14-44-48.png",
+    "images/Screenshot_2025-10-31_07-23-03.png",
+    "images/Screenshot_2025-10-31_07-26-12-1.png",
+    "images/Vulnerable.ps1.md",
+    "PRIVILEGE ESCALATION",
     "EXPLOITATION",
-    "index.md",
     "ENUMERATION",
     "images",
     "Untitled Folder",
@@ -351,11 +381,7 @@
     "ENUMERATION/Metasploit.md",
     "docs/lib/metadata.json",
     "docs/lib/media",
-    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
     "PRIVILEGE ESCALATION/User's privileges.md",
-    "PRIVILEGE ESCALATION/Root flag.md",
     "EXPLOITATION/linPEAS.md",
     "EXPLOITATION/Ghostcat exploit.md",
     "EXPLOITATION/Cracking jdk-admin's hash.md",
