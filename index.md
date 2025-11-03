@@ -8,12 +8,3 @@ _Are you stealthier enough to evade all the updated security measures of the tar
 ---
 
 ## Steps
-
-1. [[Network nmap]]
-2. [[Web Server]]
-3. [[Reverse Shell]]
-4. [[User level flag]]
-5. [[Webshell]]
-6. [[SeImpersonatePrivilege]]
-7. [[Root flag]]
-
