@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md",
+                "file": "PRIVILEGE ESCALATION/Root flag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SeImpersonatePrivilege"
+              "title": "Root flag"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ],
@@ -305,15 +305,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "fbfb786f25ff3ade",
+        "id": "a9a184efc62ae6e8",
         "type": "window",
         "children": [
           {
-            "id": "f2c7eb163d6473e5",
+            "id": "581f1bf4399d25df",
             "type": "tabs",
             "children": [
               {
-                "id": "d5d63d053c16b487",
+                "id": "dd91172aa25d9163",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -340,38 +340,38 @@
       }
     ]
   },
-  "active": "d5d63d053c16b487",
+  "active": "dd91172aa25d9163",
   "lastOpenFiles": [
-    "docs/ENUMERATION",
-    "docs/lib/rss.xml",
-    "docs/lib",
     "index.md",
     "PRIVILEGE ESCALATION/Webshell.md",
     "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md",
-    "PRIVILEGE ESCALATION/RDP.md",
+    "PRIVILEGE ESCALATION/Root flag.md",
     "EXPLOITATION/User level flag.md",
     "EXPLOITATION/Reverse Shell.md",
     "ENUMERATION/Web Server.md",
     "ENUMERATION/Network nmap.md",
     "README.md",
-    "docs",
+    "docs/lib/metadata.json",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
     "images/Screenshot_2025-10-31_07-26-12.png",
     "images/Screenshot_2025-10-31_07-23-03-1.png",
     "images/Screenshot_2025-10-30_07-11-19.png",
     "images/Screenshot_2025-10-23_06-08-42.png",
-    "PRIVILEGE ESCALATION/Root flag.md",
     "images/Screenshot_2025-11-02_14-37-28.png",
     "images/Adminitrator_flag.png",
     "images/Windows_Desktop.png",
     "images/Screenshot_2025-11-02_14-44-48.png",
     "images/Screenshot_2025-10-31_07-23-03.png",
-    "images/Screenshot_2025-10-31_07-26-12-1.png",
     "images/Vulnerable.ps1.md",
-    "PRIVILEGE ESCALATION",
-    "EXPLOITATION",
-    "ENUMERATION",
-    "images",
-    "Untitled Folder",
     "EXPLOITATION/User flag.md",
     "EXPLOITATION/Connecting the Machine.md",
     "EXPLOITATION/Gaining initial access.md",
@@ -379,8 +379,6 @@
     "PRIVILEGE ESCALATION/Services.md",
     "PRIVILEGE ESCALATION/Administrator flag.md",
     "ENUMERATION/Metasploit.md",
-    "docs/lib/metadata.json",
-    "docs/lib/media",
     "PRIVILEGE ESCALATION/User's privileges.md",
     "EXPLOITATION/linPEAS.md",
     "EXPLOITATION/Ghostcat exploit.md",

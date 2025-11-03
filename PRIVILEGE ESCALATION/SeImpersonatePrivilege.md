@@ -61,4 +61,4 @@ ef "cmd /C net user administrator Password123#
 
 ![[Screenshot_2025-11-02_14-44-48.png]]
 
-**Next step:** [[RDP]]
+**Next step:** [[Root flag]]
